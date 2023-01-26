@@ -19,28 +19,37 @@ Add create recipes to vanilla item
 ### Building
 
 - `Blocks`
-  - `Tuff`
-  - `Cobbled Deepslate`
-  - `Basalt`
-  - `Netherrack`
+  - `# Stones`
+    - `Tuff`
+    - `Cobbled Deepslate`
+    - `Basalt`
+    - `Netherrack`
+    - `End Stone`
+  - `# Ores`
+    - `# Deepslate Ores`
+      - `Deepslate Iron Ore`
+      - `Deepslate Gold Ore`
+      - ...
+    - `Deepslate Iron Ore`
+    - `Deepslate Gold Ore`
+    - ...
+  
+  - `Ice`
   - `Rooted Dirt`
   - `Mycelium`
-  - `End Stone`
-  - `Ores` (ex: `Iron Ore`, `Copper Ore`)
-  - `Deepslate Ores` (ex: `Deepslate Iron Ore`, `Deepslate Copper Ore`)
-  - `Ice`
-- `Items`
+  
+- `# Items`
   - `Dead Bush`
   - `Cobweb`
 
 ### Resource
 
-- `Ores`
+- `# Ores`
   - `Diamond`
   - `Emerald`
   - `Lapis Lazuli`
   - `Netherite Scrap`
-- `Mob Drops`
+- `# Mob Loots`
   - `Rotten Flesh`
   - `Bone`
   - `Blaze Rod`
