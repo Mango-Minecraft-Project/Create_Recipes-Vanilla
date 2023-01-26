@@ -18,7 +18,7 @@ Add create recipes to vanilla item
 
 ### Building
 
-- `Blocks`
+- `# Blocks`
   - `# Stones`
     - `Tuff`
     - `Cobbled Deepslate`
